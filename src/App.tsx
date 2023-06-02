@@ -90,7 +90,7 @@ function App() {
     <div>
       <h3 style={{ textAlign: "center" }}>Start Conversing With Eliza... </h3>
       <div className="container">
-        {messages.map((msg, i) => {
+        {messages.map((msg) => {
           return (
             <div
               key={`resp${1}`}
