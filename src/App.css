@@ -35,7 +35,7 @@ input:focus-visible {
   padding: 15px;
   margin: 0 auto;
   max-width: 1320px;
-  background-color: #fff;
+  /* background-color: #fff; */
   min-height: 100vh;
   border-left: 1px solid #ebebeb;
   border-right: 1px solid #ebebeb;
