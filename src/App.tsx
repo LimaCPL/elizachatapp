@@ -88,7 +88,7 @@ function App() {
 
   return (
     <div>
-      <h3 style={{ textAlign: "center" }}>Start Conversing With Eliza... </h3>
+      <h3 style={{ textAlign: "center", backgroundColor:"#f28964", color:"#fff", padding:"20px",marginTop:"0"  }}>Start Chatting With Eliza... </h3>
       <div className="container">
         {messages.map((msg) => {
           return (
